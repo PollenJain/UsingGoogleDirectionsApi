@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">origin_destination_directions_api</string>
+    <string name="title_activity_maps">Map</string>
+</resources>
